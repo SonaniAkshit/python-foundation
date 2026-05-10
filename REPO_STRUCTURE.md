@@ -1,7 +1,7 @@
 ```
 python-foundation/
 │
-├── basics/
+├── 01_basics/
 ├── strings/
 ├── collections/
 ├── conditions/
