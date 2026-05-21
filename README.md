@@ -11,6 +11,7 @@ A complete Python learning and practice repository focused on building strong pr
 - Data Types
 - Input / Output
 - Operators
+- Operator Precedence
 - Type Conversion
 
 ### Strings & Collections
