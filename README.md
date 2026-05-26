@@ -4,51 +4,102 @@ A complete Python learning and practice repository focused on building strong pr
 
 ---
 
-## 📚 Topics Covered
+# 🧠 1 → Python Fundamentals
 
-### Python Basics
-- Variables
-- Data Types
-- Input / Output
-- Operators
-- Operator Precedence
-- Type Conversion
+### 📘 Basics of Python
 
-### Strings & Collections
-- Strings
-- Lists
-- Tuples
-- Sets
-- Dictionaries
+* [x] Python Introduction
+* [x] Variables
+* [x] Input / Output
+* [x] Data Types
+* [x] Operators
+* [x] Operator Precedence
+* [x] Type Conversion
+* [x] Basic Practice Questions
 
-### Logic Building
-- If-Else
-- Match Case
-- Loops
-- Nested Loops
 
-### Functions
-- Parameters
-- Return Statements
-- Lambda Functions
+### 🔤 Strings & Collections
 
-### Intermediate Python
-- File Handling
-- Exception Handling
-- Modules & Packages
+* [ ] Strings
+* [ ] Indexing & Slicing
+* [ ] String Methods
+* [ ] Lists
+* [ ] Tuples
+* [ ] Sets
+* [ ] Dictionaries
+* [ ] CRUD Operations
+* [ ] Dictionary Methods
+* [ ] Nested Dictionary
+* [ ] Collection Practice
+* [ ] Practice Questions
 
-### Object-Oriented Programming
-- Classes & Objects
-- Constructors
-- Inheritance
-- Polymorphism
-- Encapsulation
-- Abstraction
+### 🔀 Conditional Statements
 
-### Practice & Projects
-- Daily Coding Problems
-- Logic Building Exercises
-- Mini Python Projects
+* [ ] If-Else
+* [ ] Nested If
+* [ ] Match Case
+* [ ] Logical Problems
+* [ ] Practice Tasks
+
+### 🔁 Loops
+
+* [ ] For Loop
+* [ ] While Loop
+* [ ] Range Function
+* [ ] Nested Loops
+* [ ] Loop Problems
+
+
+### ⚙️ Functions
+
+* [ ] Functions
+* [ ] Parameters
+* [ ] Return Keyword
+* [ ] Lambda Function
+
+# ⚡ 2 → Intermediate Python + Problem Solving
+
+
+### 🧩 Advanced Python Concepts
+
+* [ ] List Comprehension
+* [ ] Map Function
+* [ ] Filter Function
+* [ ] Reduce Basics
+* [ ] Practice Questions
+
+### 📂 File Handling & Error Handling
+
+* [ ] File Handling
+* [ ] Read / Write Files
+* [ ] Exception Handling
+* [ ] Try Except
+* [ ] Practice Tasks
+
+### 📦 Modules & Libraries
+
+* [ ] Modules
+* [ ] Packages
+* [ ] pip Basics
+* [ ] Importing Libraries
+* [ ] Mini Exercises
+
+### 🏗️ Object-Oriented Programming (OOP)
+
+* [ ] OOP Introduction
+* [ ] Class
+* [ ] Object
+* [ ] Constructor (**init**)
+* [ ] Self Keyword
+
+### 🧠 OOP Advanced Concepts
+
+* [ ] Inheritance
+* [ ] Polymorphism
+* [ ] Encapsulation
+* [ ] Abstraction
+* [ ] OOP Practice
+
 
 ---
 
