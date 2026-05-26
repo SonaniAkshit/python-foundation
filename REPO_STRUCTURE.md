@@ -1,8 +1,8 @@
 ```
 python-foundation/
 │
-├── 01_basics/
-├── strings/
+├── 01.Basics of Python/
+├── 02.Strings & Collections/
 ├── collections/
 ├── conditions/
 ├── loops/
