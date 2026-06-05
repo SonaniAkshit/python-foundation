@@ -20,11 +20,11 @@ A complete Python learning and practice repository focused on building strong pr
 
 ### 🔤 Strings & Collections
 
-* [ ] Strings
-* [ ] Indexing & Slicing
-* [ ] String Methods
-* [ ] Lists
-* [ ] Tuples
+* [x] Strings
+* [x] Indexing & Slicing
+* [x] String Methods
+* [x] Lists
+* [x] Tuples
 * [ ] Sets
 * [ ] Dictionaries
 * [ ] CRUD Operations
