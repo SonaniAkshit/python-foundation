@@ -25,8 +25,8 @@ A complete Python learning and practice repository focused on building strong pr
 * [x] String Methods
 * [x] Lists
 * [x] Tuples
-* [ ] Sets
-* [ ] Dictionaries
+* [x] Sets
+* [x] Dictionaries
 * [ ] CRUD Operations
 * [ ] Dictionary Methods
 * [ ] Nested Dictionary
