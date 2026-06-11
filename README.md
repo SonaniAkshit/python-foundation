@@ -18,15 +18,17 @@ A complete Python learning and practice repository focused on building strong pr
 * [x] Basic Practice Questions
 
 
-### 🔤 Strings & Collections
+### 🔤 Strings & Collections 
+* [ ] **12 jun 2026 Tasks**
+---
 
-* [x] Strings
-* [x] Indexing & Slicing
-* [x] String Methods
-* [x] Lists
-* [x] Tuples
-* [x] Sets
-* [x] Dictionaries
+* [ ] Strings
+* [ ] Indexing & Slicing
+* [ ] String Methods
+* [ ] Lists
+* [ ] Tuples
+* [ ] Sets
+* [ ] Dictionaries
 * [ ] CRUD Operations
 * [ ] Dictionary Methods
 * [ ] Nested Dictionary
@@ -34,6 +36,8 @@ A complete Python learning and practice repository focused on building strong pr
 * [ ] Practice Questions
 
 ### 🔀 Conditional Statements
+* [ ] **12 jun 2026 Tasks**
+---
 
 * [ ] If-Else
 * [ ] Nested If
@@ -42,25 +46,34 @@ A complete Python learning and practice repository focused on building strong pr
 * [ ] Practice Tasks
 
 ### 🔁 Loops
+* [ ] **12 jun 2026 Tasks**
+---
 
 * [ ] For Loop
 * [ ] While Loop
 * [ ] Range Function
 * [ ] Nested Loops
-* [ ] Loop Problems
+* [ ] Loop Logical Problems
+* [ ] Practice Tasks
 
 
 ### ⚙️ Functions
+* [ ] **13 jun 2026 Tasks**
+---
 
 * [ ] Functions
+* [ ] Built-in Function
+* [ ] Math Function
+* [ ] DateTime
 * [ ] Parameters
 * [ ] Return Keyword
 * [ ] Lambda Function
 
 # ⚡ 2 → Intermediate Python + Problem Solving
 
-
 ### 🧩 Advanced Python Concepts
+* [ ] **13 jun 2026 Tasks**
+---
 
 * [ ] List Comprehension
 * [ ] Map Function
@@ -69,14 +82,19 @@ A complete Python learning and practice repository focused on building strong pr
 * [ ] Practice Questions
 
 ### 📂 File Handling & Error Handling
+* [ ] **13 jun 2026 Tasks**
+---
 
 * [ ] File Handling
 * [ ] Read / Write Files
 * [ ] Exception Handling
 * [ ] Try Except
+* [ ] Regx
 * [ ] Practice Tasks
 
 ### 📦 Modules & Libraries
+* [ ] **14 jun 2026 Tasks**
+---
 
 * [ ] Modules
 * [ ] Packages
@@ -85,6 +103,8 @@ A complete Python learning and practice repository focused on building strong pr
 * [ ] Mini Exercises
 
 ### 🏗️ Object-Oriented Programming (OOP)
+* [ ] **14 jun 2026 Tasks**
+---
 
 * [ ] OOP Introduction
 * [ ] Class
@@ -93,6 +113,8 @@ A complete Python learning and practice repository focused on building strong pr
 * [ ] Self Keyword
 
 ### 🧠 OOP Advanced Concepts
+* [ ] **15 jun 2026 Tasks**
+---
 
 * [ ] Inheritance
 * [ ] Polymorphism
@@ -100,6 +122,14 @@ A complete Python learning and practice repository focused on building strong pr
 * [ ] Abstraction
 * [ ] OOP Practice
 
+### 🧩 Advanced
+* [ ] **15 jun 2026 Tasks**
+---
+
+* [ ] Python with MySQL
+* [ ] Python with mongodb
+* [ ] Json
+* [ ] QR code 
 
 ---
 
