@@ -19,7 +19,7 @@ A complete Python learning and practice repository focused on building strong pr
 
 
 ### 🔤 Strings & Collections 
-* [ ] **12 jun 2026 Tasks**
+* [ ] **13 jun 2026 Tasks**
 ---
 
 * [ ] Strings
@@ -36,7 +36,7 @@ A complete Python learning and practice repository focused on building strong pr
 * [ ] Practice Questions
 
 ### 🔀 Conditional Statements
-* [ ] **12 jun 2026 Tasks**
+* [ ] **13 jun 2026 Tasks**
 ---
 
 * [ ] If-Else
@@ -46,7 +46,7 @@ A complete Python learning and practice repository focused on building strong pr
 * [ ] Practice Tasks
 
 ### 🔁 Loops
-* [ ] **12 jun 2026 Tasks**
+* [ ] **13 jun 2026 Tasks**
 ---
 
 * [ ] For Loop
@@ -58,7 +58,7 @@ A complete Python learning and practice repository focused on building strong pr
 
 
 ### ⚙️ Functions
-* [ ] **13 jun 2026 Tasks**
+* [ ] **14 jun 2026 Tasks**
 ---
 
 * [ ] Functions
@@ -72,7 +72,7 @@ A complete Python learning and practice repository focused on building strong pr
 # ⚡ 2 → Intermediate Python + Problem Solving
 
 ### 🧩 Advanced Python Concepts
-* [ ] **13 jun 2026 Tasks**
+* [ ] **14 jun 2026 Tasks**
 ---
 
 * [ ] List Comprehension
@@ -82,7 +82,7 @@ A complete Python learning and practice repository focused on building strong pr
 * [ ] Practice Questions
 
 ### 📂 File Handling & Error Handling
-* [ ] **13 jun 2026 Tasks**
+* [ ] **14 jun 2026 Tasks**
 ---
 
 * [ ] File Handling
@@ -93,7 +93,7 @@ A complete Python learning and practice repository focused on building strong pr
 * [ ] Practice Tasks
 
 ### 📦 Modules & Libraries
-* [ ] **14 jun 2026 Tasks**
+* [ ] **15 jun 2026 Tasks**
 ---
 
 * [ ] Modules
@@ -103,7 +103,7 @@ A complete Python learning and practice repository focused on building strong pr
 * [ ] Mini Exercises
 
 ### 🏗️ Object-Oriented Programming (OOP)
-* [ ] **14 jun 2026 Tasks**
+* [ ] **15 jun 2026 Tasks**
 ---
 
 * [ ] OOP Introduction
@@ -113,7 +113,7 @@ A complete Python learning and practice repository focused on building strong pr
 * [ ] Self Keyword
 
 ### 🧠 OOP Advanced Concepts
-* [ ] **15 jun 2026 Tasks**
+* [ ] **16 jun 2026 Tasks**
 ---
 
 * [ ] Inheritance
@@ -123,7 +123,7 @@ A complete Python learning and practice repository focused on building strong pr
 * [ ] OOP Practice
 
 ### 🧩 Advanced
-* [ ] **15 jun 2026 Tasks**
+* [ ] **16 jun 2026 Tasks**
 ---
 
 * [ ] Python with MySQL
