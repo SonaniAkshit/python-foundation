@@ -19,7 +19,7 @@ A complete Python learning and practice repository focused on building strong pr
 
 
 ### 🔤 Strings & Collections 
-* [x] **16 jun 2026 Tasks**
+* [x] **17 jun 2026 Tasks**
 ---
 
 * [x] Strings
@@ -36,7 +36,7 @@ A complete Python learning and practice repository focused on building strong pr
 * [ ] Practice Questions
 
 ### 🔀 Conditional Statements
-* [ ] **16 jun 2026 Tasks**
+* [ ] **17 jun 2026 Tasks**
 ---
 
 * [ ] If-Else
@@ -46,7 +46,7 @@ A complete Python learning and practice repository focused on building strong pr
 * [ ] Practice Tasks
 
 ### 🔁 Loops
-* [ ] **16 jun 2026 Tasks**
+* [ ] **17 jun 2026 Tasks**
 ---
 
 * [ ] For Loop
@@ -58,7 +58,7 @@ A complete Python learning and practice repository focused on building strong pr
 
 
 ### ⚙️ Functions
-* [ ] **17 jun 2026 Tasks**
+* [ ] **18 jun 2026 Tasks**
 ---
 
 * [ ] Functions
@@ -72,7 +72,7 @@ A complete Python learning and practice repository focused on building strong pr
 # ⚡ 2 → Intermediate Python + Problem Solving
 
 ### 🧩 Advanced Python Concepts
-* [ ] **17 jun 2026 Tasks**
+* [ ] **18 jun 2026 Tasks**
 ---
 
 * [ ] List Comprehension
@@ -93,7 +93,7 @@ A complete Python learning and practice repository focused on building strong pr
 * [ ] Practice Tasks
 
 ### 📦 Modules & Libraries
-* [ ] **18 jun 2026 Tasks**
+* [ ] **19 jun 2026 Tasks**
 ---
 
 * [ ] Modules
@@ -113,7 +113,7 @@ A complete Python learning and practice repository focused on building strong pr
 * [ ] Self Keyword
 
 ### 🧠 OOP Advanced Concepts
-* [ ] **19 jun 2026 Tasks**
+* [ ] **20 jun 2026 Tasks**
 ---
 
 * [ ] Inheritance
