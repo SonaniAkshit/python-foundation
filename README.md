@@ -24,7 +24,7 @@ A complete Python learning and practice repository focused on building strong pr
 
 * [x] Strings
 * [x] Indexing & Slicing
-* [ ] String Methods
+* [x] String Methods
 * [ ] Lists
 * [ ] Tuples
 * [ ] Sets
