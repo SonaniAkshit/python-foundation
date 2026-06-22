@@ -19,8 +19,6 @@ A complete Python learning and practice repository focused on building strong pr
 
 
 ### 🔤 Strings & Collections 
-* [x] **21 jun 2026 Tasks**
----
 
 * [x] Strings
 * [x] Indexing & Slicing
@@ -36,8 +34,6 @@ A complete Python learning and practice repository focused on building strong pr
 * [ ] Practice Questions
 
 ### 🔀 Conditional Statements
-* [ ] **21 jun 2026 Tasks**
----
 
 * [ ] If-Else
 * [ ] Nested If
@@ -46,8 +42,6 @@ A complete Python learning and practice repository focused on building strong pr
 * [ ] Practice Tasks
 
 ### 🔁 Loops
-* [ ] **22 jun 2026 Tasks**
----
 
 * [ ] For Loop
 * [ ] While Loop
@@ -58,8 +52,6 @@ A complete Python learning and practice repository focused on building strong pr
 
 
 ### ⚙️ Functions
-* [ ] **22 jun 2026 Tasks**
----
 
 * [ ] Functions
 * [ ] *args and **kwargs
@@ -73,8 +65,6 @@ A complete Python learning and practice repository focused on building strong pr
 # ⚡ 2 → Intermediate Python + Problem Solving
 
 ### 🧩 Advanced Python Concepts
-* [ ] **23 jun 2026 Tasks**
----
 
 * [ ] List Comprehension
 * [ ] Map Function
@@ -83,8 +73,6 @@ A complete Python learning and practice repository focused on building strong pr
 * [ ] Practice Questions
 
 ### 📂 File Handling & Error Handling
-* [ ] **23 jun 2026 Tasks**
----
 
 * [ ] File Handling
 * [ ] Read / Write Files
@@ -94,8 +82,6 @@ A complete Python learning and practice repository focused on building strong pr
 * [ ] Practice Tasks
 
 ### 📦 Modules & Libraries
-* [ ] **24 jun 2026 Tasks**
----
 
 * [ ] Modules
 * [ ] Packages
@@ -104,8 +90,6 @@ A complete Python learning and practice repository focused on building strong pr
 * [ ] Mini Exercises
 
 ### 🏗️ Object-Oriented Programming (OOP)
-* [ ] **24 jun 2026 Tasks**
----
 
 * [ ] OOP Introduction
 * [ ] Class
@@ -114,8 +98,6 @@ A complete Python learning and practice repository focused on building strong pr
 * [ ] Self Keyword
 
 ### 🧠 OOP Advanced Concepts
-* [ ] **25 jun 2026 Tasks**
----
 
 * [ ] Inheritance
 * [ ] Polymorphism
@@ -126,8 +108,6 @@ A complete Python learning and practice repository focused on building strong pr
 * [ ] Decorators
 
 ### 🧩 Advanced
-* [ ] **25jun 2026 Tasks**
----
 
 - [ ] APIs
 * [ ] Python with MySQL
