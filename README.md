@@ -23,13 +23,14 @@ A complete Python learning and practice repository focused on building strong pr
 * [x] Strings
 * [x] Indexing & Slicing
 * [x] String Methods
-* [ ] Lists
-* [ ] Tuples
-* [ ] Sets
+* [X] Lists
+* [x] Tuples
+* [x] Sets
 * [ ] Dictionaries
-* [ ] CRUD Operations
 * [ ] Dictionary Methods
 * [ ] Nested Dictionary
+* [ ] Diffrence Strings vs Lists vs Tuples vs Sets vs Dictionaries
+* [ ] Collections Method Sheet
 * [ ] Collection Practice
 * [ ] Practice Questions
 
