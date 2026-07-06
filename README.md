@@ -110,7 +110,8 @@ A complete Python learning and practice repository focused on building strong pr
 
 ### 🧩 Advanced
 
-- [ ] APIs
+* [ ] Type Hints
+* [ ] APIs
 * [ ] Python with MySQL
 * [ ] Python with mongodb
 * [ ] Json
