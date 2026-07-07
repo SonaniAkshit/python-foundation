@@ -10,37 +10,37 @@ A complete Python learning and practice repository focused on building strong pr
 
 * [x] Python Introduction
 * [x] Variables
-* [x] Input / Output
+* [x] Input / Output (Basic)
 * [x] Data Types
 * [x] Operators
 * [x] Operator Precedence
 * [x] Type Conversion
-* [x] Basic Practice Questions
 
+---
 
-### 🔤 Strings & Collections 
+### 🔤 Strings & Collections
 
-* [x] Strings
+* [X] Strings
 * [x] Indexing & Slicing
 * [x] String Methods
-* [X] Lists
+* [x] Lists
 * [x] Tuples
 * [x] Sets
-* [ ] Dictionaries
-* [ ] Dictionary Methods
-* [ ] Nested Dictionary
-* [ ] Diffrence Strings vs Lists vs Tuples vs Sets vs Dictionaries
+* [x] Dictionaries ⭐
+* [ ] Dictionary Methods ⭐
+* [ ] Nested Dictionary ⭐
+* [ ] Difference: String vs List vs Tuple vs Set vs Dictionary ⭐
 * [ ] Collections Method Sheet
-* [ ] Collection Practice
-* [ ] Practice Questions
+
+---
 
 ### 🔀 Conditional Statements
 
 * [ ] If-Else
 * [ ] Nested If
 * [ ] Match Case
-* [ ] Logical Problems
-* [ ] Practice Tasks
+
+---
 
 ### 🔁 Loops
 
@@ -48,75 +48,117 @@ A complete Python learning and practice repository focused on building strong pr
 * [ ] While Loop
 * [ ] Range Function
 * [ ] Nested Loops
-* [ ] Loop Logical Problems
-* [ ] Practice Tasks
 
+---
 
 ### ⚙️ Functions
 
-* [ ] Functions
-* [ ] *args and **kwargs
-* [ ] Built-in Function
-* [ ] Math Function
-* [ ] DateTime
+* [ ] Functions ⭐
 * [ ] Parameters
-* [ ] Return Keyword
-* [ ] Lambda Function
+* [ ] Return
+* [ ] *args & **kwargs ⭐
+* [ ] Lambda Function ⭐
+* [ ] Built-in Functions
 
-# ⚡ 2 → Intermediate Python + Problem Solving
+---
 
-### 🧩 Advanced Python Concepts
+# ⚡ 2 → Intermediate Python
 
-* [ ] List Comprehension
-* [ ] Map Function
-* [ ] Filter Function
-* [ ] Reduce Basics
-* [ ] Practice Questions
+### 🧩 Advanced Python
 
-### 📂 File Handling & Error Handling
+* [ ] List Comprehension ⭐⭐⭐
+* [ ] Dictionary Comprehension ⭐⭐⭐
+* [ ] Set Comprehension
+* [ ] Map
+* [ ] Filter
+* [ ] Enumerate ⭐
+* [ ] Zip ⭐
 
-* [ ] File Handling
+---
+
+### 📂 File Handling & Exception Handling
+
+* [ ] File Handling ⭐
 * [ ] Read / Write Files
-* [ ] Exception Handling
-* [ ] Try Except
-* [ ] Regx
-* [ ] Practice Tasks
+* [ ] CSV Basics ⭐
+* [ ] Exception Handling ⭐
+* [ ] Try / Except / Finally
 
-### 📦 Modules & Libraries
+---
+
+### 📦 Modules & Packages
 
 * [ ] Modules
 * [ ] Packages
-* [ ] pip Basics
+* [ ] pip
+* [ ] Virtual Environment (venv) ⭐
 * [ ] Importing Libraries
-* [ ] Mini Exercises
 
-### 🏗️ Object-Oriented Programming (OOP)
+---
+
+# 🏗️ Object-Oriented Programming
 
 * [ ] OOP Introduction
 * [ ] Class
 * [ ] Object
-* [ ] Constructor (**init**)
-* [ ] Self Keyword
+* [ ] Constructor (`__init__`)
+* [ ] self
+* [ ] Instance Variables
+* [ ] Instance Methods
 
-### 🧠 OOP Advanced Concepts
+---
+
+### 🧠 OOP Advanced
 
 * [ ] Inheritance
-* [ ] Polymorphism
 * [ ] Encapsulation
-* [ ] Abstraction
-* [ ] OOP Practice
-* [ ] Generators
-* [ ] Decorators
+* [ ] Polymorphism *(Basic Only)*
 
-### 🧩 Advanced
+---
 
-* [ ] Type Hints
-* [ ] APIs
-* [ ] Python with MySQL
-* [ ] Python with mongodb
-* [ ] Json
-* [ ] QR code 
+# 🚀 3 → Python for ML
 
+### Modern Python
+
+* [ ] Type Hints ⭐⭐⭐
+* [ ] JSON ⭐⭐⭐
+* [ ] Dataclasses *(Basic)*
+* [ ] APIs (Requests Library) ⭐⭐
+
+---
+
+# ❌ Skip for Now
+
+* Reduce
+* Regex (Deep)
+* Decorators
+* Generators
+* Iterators (Deep)
+* Context Managers
+* Metaclasses
+* Threading
+* Multiprocessing
+* Asyncio
+* Python with MySQL
+* Python with MongoDB
+* QR Code
+* DateTime (Advanced)
+* Math Module (Advanced)
+
+---
+
+# ⭐ Highest Priority (Master These)
+
+1. Dictionaries
+2. Functions
+3. List & Dictionary Comprehensions
+4. File Handling
+5. Exception Handling
+6. JSON
+7. OOP Basics
+8. Type Hints
+9. Modules & Packages
+10. Virtual Environment
 
 ---
 
